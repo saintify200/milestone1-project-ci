@@ -113,7 +113,35 @@ listed below:
 
 ## Features
 
+The Ifeanyi's Portfolio site is designed to be responsive accross the following view port screen:
+* Smartphone
+* iPad
+* Desktop
+The site will have five pages, navigated through using nav bars at the header section of the page. 
+
 ### Existing features
+
+Each page will have three sections:
+
+ - The Header
+ - The Section
+ - The Footer 
+
+#### The Header
+
+The header section will contain:
+
+1. An image logo to the top-left of the screen for iPad and desktop, occupying 
+   1/3 of the entire screen width. For smartphones, the image logo will take 
+   the entire width of the screen.
+2. The full name and title will take the top-right of the screen and occupy 2/3 
+   of the entire screen width for iPad and desktop. For smartphone the full name 
+   and title will occupy the entire screen width directly below the image logo.
+3. The navigation bars will be directly below the full name and title block and 
+   will occupy 2/3 of the screen width for iPad and desktop and full width for 
+   smartphone.
+
+#### Section
 
 ### Features left to implement
 
