@@ -94,21 +94,6 @@ have 5 pages: Home, Education, Work Experience, Portfolio and Contact form. Each
 page has been designed to suit it's specific needs. The links to the frames are 
 listed below:
 
-![Home Mobile](assets/wireframes/homemobile.jpg)
-![Home iPad](/assets/wireframes/homeipad.jpg)
-![Home Desktop](/assets/wireframes/homedesktop.jpg)
-![Education Mobile](/assets/wireframes/educationmobile.jpg)
-![Education iPad](/assets/wireframes/educationipad.jpg)
-![Education Desktop](/assets/wireframes/educationdesktop.jpg)
-![Work Mobile](/assets/wireframes/Workmobile.jpg)
-![Work iPad](/assets/wireframes/workipad.jpg)
-![Work Desktop](/assets/wireframes/workdesktop.jpg)
-![Portfolio Mobile](/assets/wireframes/portfoliomobile.jpg)
-![Portfolio iPad](/assets/wireframes/portfolioipad.jpg)
-![Portfolio Desktop](/css/assets/wireframes/portfolidesktop.jpg)
-![Contact Mobile](/assets/wireframes/contactmobile.jpg)
-![Contact iPad](/assets/wireframes/contactipad.jpg)
-![Contact Desktop](/assets/wireframes/contactdesktop.jpg)
 
 
 ## Features
