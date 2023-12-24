@@ -187,7 +187,10 @@ qualification. The education history contains:
 
 ##### Work
 
-The section field of the work page is similar in structure and design to the education section field. it's divided into work history on the left and skills on the right, they occupy the same screen width as the education section. The work history part consist of:
+The section field of the work page is similar in structure and design to the 
+education section field. it's divided into work history on the left and skills 
+on the right, they occupy the same screen width as the education section. 
+The work history part consist of:
 
 * Date
 * Company Name
@@ -207,7 +210,9 @@ It occupies about 70% of the screen width and positioned at the center
 
 ##### Contact
 
-The contact section field contains a form used to fill in the user details when they want to contact the candidate. It is position at the center and occupies about 70% of the screen width. The section contains:
+The contact section field contains a form used to fill in the user details when 
+they want to contact the candidate. It is position at the center and occupies 
+about 70% of the screen width. The section contains:
 
 * First Name
 * Last Name
