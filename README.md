@@ -113,11 +113,13 @@ listed below:
 
 ## Features
 
-The Ifeanyi's Portfolio site is designed to be responsive accross the following view port screen:
+The Ifeanyi's Portfolio site is designed to be responsive accross the following 
+view port screen:
 * Smartphone
 * iPad
 * Desktop
-The site will have five pages, navigated through using nav bars at the header section of the page. 
+The site will have five pages, navigated through using nav bars at the header 
+section of the page. 
 
 ### Existing features
 
@@ -141,7 +143,29 @@ The header section will contain:
    will occupy 2/3 of the screen width for iPad and desktop and full width for 
    smartphone.
 
+Navigation bars will have hovering effect when the mouse hovers over the 
+navigation bars
+The image logo, when clicked on will always return the site to thehome page
+
 #### Section
+
+#### Footer
+
+The section field of the footer, at the bottom of the page will have the 
+contact details, social media accounts and CV download button. The footer 
+will contain:
+
+* Address
+* Email
+* Phone Number
+* Facebook
+* Twitter
+* Instagram
+* LinkedIn
+* CV download Button and Icon
+
+The Header and Footer elements will be consistent accross the entire pagesof 
+the site
 
 ### Features left to implement
 
