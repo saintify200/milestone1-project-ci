@@ -149,6 +149,74 @@ The image logo, when clicked on will always return the site to thehome page
 
 #### Section
 
+The section field is designed to suit the need of the indvidual pages.
+
+##### Home Page
+
+The home page section contains the About Me section, which consist of the title 
+part and summary part. The Title part occupies 1/3 of the entire width of the 
+screen for iPad and desktop. For smartphone occupies 90% of the entire and it 
+include:
+
+* My Profile
+* My Philosophy
+* Why i do whay i do
+
+The summary part occupies 2/3 of the screen width for iPad and desktop and 
+full screen width for smartphone and contains:
+
+* Profile summary
+* Philosophy content
+* Motivation
+
+The home page will have a Hire Me button below the Motivation element, that will 
+the user directly to the contact form page
+
+##### Education Page
+
+The education section field is similar in structure and occupies the same width 
+as the Home page. it consist of the education history on the left occupying 1/3 
+of the screen width and the degree project which occupies 2/3 of the screen on 
+the right side of the screen for iPad and desktop. For smartphone it occupies 
+the about 90% of the screen and the degree project is placed directly below the 
+qualification. The education history contains:
+
+* Start and End date
+* School Attended
+* Qualification
+
+##### Work
+
+The section field of the work page is similar in structure and design to the education section field. it's divided into work history on the left and skills on the right, they occupy the same screen width as the education section. The work history part consist of:
+
+* Date
+* Company Name
+* Position
+
+And the degree project contains the skill sets
+
+##### Portfolio
+
+The section field of the portfolio contains:
+
+* Project Title
+* Brief Introduction
+* Link to view the project
+
+It occupies about 70% of the screen width and positioned at the center
+
+##### Contact
+
+The contact section field contains a form used to fill in the user details when they want to contact the candidate. It is position at the center and occupies about 70% of the screen width. The section contains:
+
+* First Name
+* Last Name
+* Email
+* Phone Number
+* Subject (reason for contacting)
+* Message (details for contacting)
+* Submit button
+
 #### Footer
 
 The section field of the footer, at the bottom of the page will have the 
