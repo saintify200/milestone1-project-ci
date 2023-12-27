@@ -145,7 +145,7 @@ The header section will contain:
 
 Navigation bars will have hovering effect when the mouse hovers over the 
 navigation bars
-The image logo, when clicked on will always return the site to thehome page
+The image logo, when clicked on will always return the site to the home page
 
 #### Section
 
@@ -155,8 +155,8 @@ The section field is designed to suit the need of the indvidual pages.
 
 The home page section contains the About Me section, which consist of the title 
 part and summary part. The Title part occupies 1/3 of the entire width of the 
-screen for iPad and desktop. For smartphone occupies 90% of the entire and it 
-include:
+screen for iPad and desktop. For smartphone occupies 90% of the entire Width and 
+it include:
 
 * My Profile
 * My Philosophy
@@ -170,7 +170,7 @@ full screen width for smartphone and contains:
 * Motivation
 
 The home page will have a Hire Me button below the Motivation element, that will 
-the user directly to the contact form page
+take the user directly to the contact form page
 
 ##### Education Page
 
@@ -184,6 +184,7 @@ qualification. The education history contains:
 * Start and End date
 * School Attended
 * Qualification
+* Degree Project
 
 ##### Work
 
@@ -241,6 +242,8 @@ The Header and Footer elements will be consistent accross the entire pagesof
 the site
 
 ### Features left to implement
+
+* A feedback email to the user when they submit their details in the contact form
 
 ## Technologies used
 
