@@ -1,16 +1,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;700;800;900|Exo+2:wght@100;200;300;400;500;600;700;800;900');
 
-heading {
-    margin: 0;
-}
+/*------------------------------------------Colors*/
 
-.logo {
-    background: url("../images.Ify.jpg");
-    background-position: center;
-    background-repeat: no repeat;
-    background-size: cover;
-    min-height: 360px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-}
+.bg-color-name-title {
+    background-color: #d3d3d3;
+
+    /*------------------------------------------Colors*/
+
+    heading {
+        margin: 0;
+    }
+
+    .heading {
+        margin-left: 50px;
+    }
+
+    .logo {
+        background: url("../images/Ify.jpg");
+        background-position: center;
+        background-repeat: no repeat;
+        background-size: cover;
+        min-height: 360px;
+        transition: all .5s ease-in-out;
+        -moz-transition: all .5s ease-in-out;
+        -webkit-transition: all .5s ease-in-out;
+    }
+
+    .name {
+        font-family: "Exo", sans-serif;
+        font-weight: 100px;
+        font-size: 46;
+        margin-top: 50px;
+    }
+
+    .title {
+        font-family: "Roboto", sans-serif;
+        font-weight: 200px;
+        font-size: 28;
+        margin-top: 20px;
+        margin-bottom: 90px;
+    }
