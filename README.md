@@ -25,6 +25,7 @@ also boost the confidence of the recruiters that they are hiring the best
 candidate for the job.
 
 The recruiters goals are:
+
 * A site with relevant content that meets the demands set by the particular job 
   specification
 * A site recruiters can easily understand and navigate and view candidate's 
