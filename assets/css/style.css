@@ -3,40 +3,77 @@
 /*------------------------------------------Colors*/
 
 .bg-color-name-title {
-    background-color: #d3d3d3;
+    background-color: #2f4f4f;
+}
 
-    /*------------------------------------------Colors*/
+.ui-menu-color-home {
+    background-color: #800000;
+}
 
-    heading {
-        margin: 0;
-    }
+.ui-menu-color-education {
+    background-color: #556b2f;
+}
 
-    .heading {
-        margin-left: 50px;
-    }
+.ui-menu-color-work {
+    background-color: #00ffff;
+}
 
-    .logo {
-        background: url("../images/Ify.jpg");
-        background-position: center;
-        background-repeat: no repeat;
-        background-size: cover;
-        min-height: 360px;
-        transition: all .5s ease-in-out;
-        -moz-transition: all .5s ease-in-out;
-        -webkit-transition: all .5s ease-in-out;
-    }
+.ui-menu-color-portfolio {
+    background-color: #8a2be2;
+}
 
-    .name {
-        font-family: "Exo", sans-serif;
-        font-weight: 100px;
-        font-size: 46;
-        margin-top: 50px;
-    }
+.ui-menu-color-contact {
+    background-color: #a0522d;
+}
 
-    .title {
-        font-family: "Roboto", sans-serif;
-        font-weight: 200px;
-        font-size: 28;
-        margin-top: 20px;
-        margin-bottom: 90px;
-    }
+/*------------------------------------------Header*/
+
+heading {
+    margin: 0;
+}
+
+.heading {
+    margin-left: 50px;
+}
+
+.logo {
+    background: url("../images/ify.jpg");
+    background-position: center;
+    background-repeat: no repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.name {
+    font-family: "Exo", sans-serif;
+    font-weight: 100;
+    font-size: 46px;
+    margin-top: 50px;
+    color: #fff;
+}
+
+.title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    color: #fff;
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.menucontainer {
+    font-size: 0;
+}
+
+#nav li {
+    font-size: 14px;
+    padding: 0;
+    width: 20%;
+}
