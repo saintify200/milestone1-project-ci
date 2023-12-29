@@ -26,6 +26,27 @@
     background-color: #a0522d;
 }
 
+/*------------------------------------------Special paddings/margins/text*/
+
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.general-sub {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    color: #fafafa; 
+}
+
+
+
 /*------------------------------------------Header*/
 
 heading {
@@ -68,6 +89,11 @@ heading {
     margin: 0;
 }
 
+.no-gutters {
+    --bs-gutter-x: 0;
+    --bs-gutter-y: 0;
+}
+
 .menucontainer {
     font-size: 0;
     margin: 0;
@@ -76,7 +102,7 @@ heading {
 #nav li {
     font-size: 14px;
     padding: 0;
-    width: 20%;   
+    width: 20%; 
 }
 
 .menuitem {
@@ -115,4 +141,56 @@ heading {
 .hvr-shutter-out-vertical {
     background: rgba(0, 0, 0, 0.2);
     height: 120px;
+}
+
+/*------------------------------------------footer*/
+
+.container-fluid {
+    background-color: #2f4f4f;
+    color: #fafafa;
+    min-height: 200px;
+    margin: 0;
+}
+
+.cv-pdf i {
+    font-size: 18px;
+    text-align: center;
+    color: #fafafa;
+    padding-left: 5px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.cv-pdf i:hover {
+    color: #b8860b;
+}
+
+.social-links {
+    padding: 15px;
+}
+
+.social-links li a i {
+    width: 36;
+    height: 36;
+    padding: 12, 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #778899;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #b8860b;
+}
+
+#footer-details {
+    padding: 20px;
 }
