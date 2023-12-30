@@ -6,6 +6,10 @@
     background-color: #2f4f4f;
 }
 
+.bg-color-about-me-summary {
+    background-color: #fff;
+}
+
 .ui-menu-color-home {
     background-color: #800000;
 }
@@ -45,7 +49,22 @@ h4 {
     color: #fafafa; 
 }
 
+.row-table {
+    display: table;
+}
 
+.section-column {
+    display: table-cell;
+    padding: 0 30px 30px;
+    float: none;
+}
+
+.section-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
 
 /*------------------------------------------Header*/
 
@@ -148,8 +167,10 @@ heading {
 .container-fluid {
     background-color: #2f4f4f;
     color: #fafafa;
-    min-height: 200px;
+    min-height: 160px;
     margin: 0;
+    --bs-gutter-x: 0;
+    --bs-gutter-y: 0;
 }
 
 .cv-pdf i {
